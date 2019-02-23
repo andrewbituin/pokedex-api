@@ -9,6 +9,9 @@
     "dev": "nodemon server"
   },
   "keywords": [],
+  "engines": {
+    "node": "v11.9.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
